@@ -14,7 +14,7 @@ It is compatible with Python 2.7-3.6 and is distributed under the GPLv3 license.
 '''
 
 setup(name='dtw',
-      version=version.version,
+      version=version,
 
       description='Python DTW Module',
       long_description=long_description,
