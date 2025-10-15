@@ -2,7 +2,7 @@
 
 from setuptools import setup, find_packages
 
-version = SourceFileLoader('dtw.version', 'dtw/version.py').load_module()
+version = 1.4.1
 
 
 long_description = '''
