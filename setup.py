@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-from importlib.machinery import SourceFileLoader
 from setuptools import setup, find_packages
 
 version = SourceFileLoader('dtw.version', 'dtw/version.py').load_module()
