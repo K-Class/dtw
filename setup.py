@@ -2,7 +2,7 @@
 
 from setuptools import setup, find_packages
 
-version = 1.4.1
+version = '1.4.1'
 
 
 long_description = '''
